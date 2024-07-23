@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-gopale-580899151/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="https://www.linkedin.com/in/shubham-gopale-580899151/"></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-gopale-580899151/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="https://www.linkedin.com/in/shubham-gopale-580899151/"height="30" width="40"/></a>
 <a href="https://shubham1996.pythonanywhere.com/" target="blank"><img align="center" src="https://cdn.dribbble.com/users/2984909/screenshots/17088182/media/0ba1140ce29061d5c9b911567bbdfd38.jpg" alt="https://shubham1996.pythonanywhere.com/" height="30" width="40" /></a>
 </p>
 
